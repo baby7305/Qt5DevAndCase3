@@ -1,6 +1,8 @@
 #include "dialog.h"
 #include "ui_dialog.h"
 
+#include <QRegExpValidator>  
+
 Dialog::Dialog(QWidget *parent) :
     QDialog(parent),
     ui(new Ui::Dialog)
