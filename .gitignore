@@ -56,3 +56,10 @@ compile_commands.json
 
 # 忽略idea目录
 *.idea/
+
+# Xmake cache
+*.xmake/
+*build/
+
+# MacOS Cache
+*.DS_Store
