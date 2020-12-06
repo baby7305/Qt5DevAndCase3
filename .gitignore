@@ -63,3 +63,7 @@ compile_commands.json
 
 # MacOS Cache
 *.DS_Store
+
+# 忽略visual studio目录
+*.vs/
+*out/
