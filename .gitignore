@@ -50,3 +50,6 @@ compile_commands.json
 
 # QtCreator local machine specific files for imported projects
 *creator.user*
+
+# 忽略vscode目录
+*.vscode/
