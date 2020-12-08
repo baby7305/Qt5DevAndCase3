@@ -16,7 +16,7 @@ endif()
 find_package(Qt5 COMPONENTS Widgets REQUIRED)
 
 add_executable(Dialog
-    dialog.ui
+#    dialog.ui
     dialog.cpp
     main.cpp
 )
